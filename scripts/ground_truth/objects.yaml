@@ -1,0 +1,3 @@
+# object dimensions db, populated by record_corners.py.
+# <name>:
+#   dimensions_mm: [length, width, height]   # top-face long edge, top-face short edge, thickness

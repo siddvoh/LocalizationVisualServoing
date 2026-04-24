@@ -1,0 +1,3 @@
+timestamp,frame,dt_ms,mode,pipeline,run_tag,centroid_u,centroid_v,ekf_x,ekf_y,ekf_z,ekf_vx,ekf_vy,ekf_vz,ekf_uncertainty,depth_metric,servo_dx_mm,servo_dy_mm,servo_dz_mm,err_m,iter_time_ms,robot_x_mm,robot_y_mm,robot_z_mm,fp_raw_x,fp_raw_y,fp_raw_z,err_px
+1776984920.908010,1,100.4,detect,ibvs,protein_bar_pbvs,,,,,,,,,,,0.00,0.00,0.00,0.000000,4821.0,205.26,5.56,-52.85,,,,0.00
+1776984925.730375,2,4822.4,detect,ibvs,protein_bar_pbvs,651,410,0.008127,0.036940,0.517165,0.000000,0.000000,0.000000,0.4472135954999579,0.5171652875022643,0.00,0.00,0.00,0.000000,1720.9,205.26,13.56,-52.85,,,,0.00

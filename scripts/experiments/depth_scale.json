@@ -1,0 +1,9 @@
+{
+  "scale": 0.11634890235255956,
+  "offset": 0.0,
+  "depth_cal_m": 0.5461,
+  "d_rel_median": 4.693641185760498,
+  "reference": "experiments/input_image_transparent.png",
+  "source": "keypress_c",
+  "saved_at": "2026-04-18T17:36:31"
+}
